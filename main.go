@@ -20,7 +20,7 @@ var (
 	quotes = []interface{}{ // https://www.imdb.com/title/tt0106179/quotes
 		"TRUST NO-ONE",
 		"Celui qui trouve sans chercher cest quil a longtemps cherche sans trouver",
-		"un grand pouvoir implique de grandes responsabilites",
+		"un grand pouvoir implique de grandes responsabilites !!!",
 	}
 
 	listenAddr          string
